@@ -95,7 +95,7 @@ To replicate this analysis on your own machine, follow these steps:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/Rishitagpt/Zomato-Analytics](https://github.com/Rishitagpt/Zomato-Analytics)
+    git clone [https://github.com/Rishitagpt/Zomato-Analytics.git](https://github.com/Rishitagpt/Zomato-Analytics.git)
     cd Zomato-Analytics
     ```
 2.  **Set up the Database:**
@@ -106,5 +106,5 @@ To replicate this analysis on your own machine, follow these steps:
     Execute the queries from `analysis_queries.sql` to generate the insights.
 
 ## Author
-**Aditya Upadhyay**
+**Rishita Gupta**
 * **GitHub:** [@Rishitagpt](https://github.com/Rishitagpt)
