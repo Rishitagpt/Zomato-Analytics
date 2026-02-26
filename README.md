@@ -95,8 +95,8 @@ To replicate this analysis on your own machine, follow these steps:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/aditya-8128/Zomato_Analytics.git](https://github.com/aditya-8128/Zomato_Analytics.git)
-    cd Zomato_Analytics
+    git clone [https://github.com/Rishitagpt/Zomato-Analytics](https://github.com/Rishitagpt/Zomato-Analytics)
+    cd Zomato-Analytics
     ```
 2.  **Set up the Database:**
     Connect to a PostgreSQL instance and run the script in `schema.sql` to create the `restaurants` table.
@@ -107,4 +107,4 @@ To replicate this analysis on your own machine, follow these steps:
 
 ## Author
 **Aditya Upadhyay**
-* **GitHub:** [@aditya-8128](https://github.com/aditya-8128)
+* **GitHub:** [@Rishitagpt](https://github.com/Rishitagpt)
